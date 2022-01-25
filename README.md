@@ -2,19 +2,6 @@
 ---
 This API is capable of fetching news contents from various sources as gathered by Inshorts app.
 
----
-### Show some :heart: and :star: the repo to support the project
-
-[![GitHub stars](https://img.shields.io/github/stars/cyberboysumanjay/inshorts-news-api.svg?style=social&label=Star)](https://github.com/cyberboysumanjay/Inshorts-News-API)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/cyberboysj.svg?style=social)](https://twitter.com/CyberboySj)
-
-![GitHub followers](https://img.shields.io/github/followers/cyberboysumanjay.svg?style=social&label=Follow)
-
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-orange)](https://t.me/sjprojects)
-
----
-
 ## News Categories
 
 This API supports category wise news. Here is a complete list of all categories.
@@ -93,12 +80,7 @@ Install all dependencies listed in *requirements.txt* file.
     ```bash 
     $ python app.py
     ```
----
-## Apps using this API
-#### [Telegram Channel](https://telegram.dog/news_inshorts) of Inshorts News
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-orange)](https://t.me/news_inshorts)
 
----
 
 ### You can fork the repo and deploy on VPS, Heroku or Vercel :)  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vnsh/Inshorts-News-API/tree/master)
