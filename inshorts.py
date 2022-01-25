@@ -13,7 +13,7 @@ def getNews(category):
 
     try:
         if category!='all':
-            htmlBody = requests.get('https://www.inshorts.com/en/read/' + category)
+            htmlBody = requests.get('https://www.inshorts.com/en/read/' + str(category))
         else:
             htmlBody = requests.get('https://www.inshorts.com/en/read/')
 
