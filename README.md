@@ -101,9 +101,8 @@ Install all dependencies listed in *requirements.txt* file.
 ---
 
 ### You can fork the repo and deploy on VPS, Heroku or Vercel :)  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/cyberboysumanjay/Inshorts-News-API/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vnsh/Inshorts-News-API/tree/master)
 
-[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/cyberboysumanjay/Inshorts-News-API/tree/master)
 
 ---
 #### :star: the Repo in case you liked it :)
